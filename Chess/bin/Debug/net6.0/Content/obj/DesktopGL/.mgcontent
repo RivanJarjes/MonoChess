@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/bb.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/bk.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/BlackChessIcon.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/BlackWon.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/bn.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/bp.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/bq.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/br.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/cbk.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/CursorGrab.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/CursorHover.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/cwk.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/IconOutline.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/RestartButton.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/RestartButtonHovered.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/Selection.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/SelectionPiece.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/SpriteFont.spritefont</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/Tie.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/wb.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/WhiteChessIcon.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/WhiteWon.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/wk.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/wn.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/wp.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/wq.png</File>
+    <File>C:/Users/rivan/Desktop/New Projects/Chess/Chess/Content/wr.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
